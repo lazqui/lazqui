@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lazqui
+- 👀 I’m interested in web experiences
+- 🌱 I’m currently learning three.js + java
+- 💞️ I’m looking to collaborate on web develpoment
